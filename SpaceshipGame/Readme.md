@@ -6,7 +6,7 @@
 
 ## :information_source: Sobre
 
-Este projeto faz parte do Bootcamp HTML Web Developer da [@digitalinnovationone](https://github.com/digitalinnovationone).
+Este projeto faz parte do Bootcamp JavaScript Game Developer da [@digitalinnovationone](https://github.com/digitalinnovationone).
 
 O módulo propôs recriar um jogo 2D de combate e resgate, afim de aprender na prática a linguagem JavaScript.
 
